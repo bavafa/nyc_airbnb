@@ -9,3 +9,5 @@ This csv file contains 48,895 observations (or rows) and 16 features (or columns
 'calculated_host_listings_count', and 'availability_365’.
 To predict the listing prices using machine learning, scikit learn library was employed. The models compared to reach the best performing model were kNN regression,
 Decision Tree regression and Ridge regression.
+
+This notebook is developed for Python 3.7+, and expects a standard Jupyter Hub or Jupyter notebook environment. Moreover, we also provide a Powerpoint presentation with 5 slides highlighting our key findings. This is a group project prepared in 2 steps (and 2 files accordingly: exploratory data analysis & prediction model).
