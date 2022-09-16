@@ -1,4 +1,6 @@
 # nyc_airbnb
+Predicting the optimum price for an Airbnb property based on location and time in New York city.
+
 This project is created to predict the competitive price at which an Airbnb host should list their New York property.
 It contains three files: a Jupyter notebook for exploratory analysis on the data named “Airbnb_EDA”, a Jupyter notebook to carry out predictive modeling to estimate price for a listing named “AirBnb_Pricing_Predictive_Model_Final”, and a final report on the findings from the analysis and modeling named “AirBnb_NewYork_Price_Listing_Prediction_Report”.
 
