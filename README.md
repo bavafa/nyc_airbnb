@@ -1,6 +1,6 @@
 # nyc_airbnb
-This project is created to predict the competitive price at which an AirBnb host should list their New York property.
-It contains three files: a Jupyter notebook for exploratory analysis on the data named “AirBnb_EDA”, a Jupyter notebook to carry out predictive modeling to estimate price for a listing named “AirBnb_Pricing_Predictive_Model_Final”, and a final report on the findings from the analysis and modeling named “AirBnb_NewYork_Price_Listing_Prediction_Report”.
+This project is created to predict the competitive price at which an Airbnb host should list their New York property.
+It contains three files: a Jupyter notebook for exploratory analysis on the data named “Airbnb_EDA”, a Jupyter notebook to carry out predictive modeling to estimate price for a listing named “AirBnb_Pricing_Predictive_Model_Final”, and a final report on the findings from the analysis and modeling named “AirBnb_NewYork_Price_Listing_Prediction_Report”.
 
 The file used to create the data frame in this notebook, named “AB_NYC_2019.csv” was taken from Kaggle. It was last updated in 2019 and can be downloaded at this link:
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
